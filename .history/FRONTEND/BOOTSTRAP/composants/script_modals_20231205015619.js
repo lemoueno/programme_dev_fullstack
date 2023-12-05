@@ -1,0 +1,1 @@
+var myModal = document.getElementById('exampleModal') 
